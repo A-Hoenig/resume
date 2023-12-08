@@ -386,8 +386,6 @@ button[type="submit"] {
     color: #fafafa;
 }
 
-div#map {min-height: 360px;}
-
 /*--------------------------------------------Map*/
 div#map {
     min-height: 360px;
